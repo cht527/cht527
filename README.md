@@ -13,9 +13,7 @@
 <br>
 
 <details>
-  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
-  
-  <br>
+
   
   [![Github Stats By cht527](https://github-readme-stats.vercel.app/api?username=cht527&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/cht527/github-readme-stats)
 
@@ -45,13 +43,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/caohaitaolinkedin/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/caohaitaolinkedin/">linkedin</a> &nbsp; &nbsp;
   
 </p>
 
-<p align="center">
-  <i> Open to anything under the stars :sparkles: </i>
-</p>
 
 <br>
 
