@@ -9,7 +9,7 @@
 
 <br>
 
-### -  I'm currently working on Web Front End Develop at [ByteDance](https://bytedance.com).
+### -  I'm currently working on Web development at [ByteDance](https://bytedance.com).
 
 ---
 
