@@ -9,8 +9,6 @@
 
 <br>
 
-### -  I'm currently working on Web development at [ByteDance](https://bytedance.com).
-
 ---
 
 
