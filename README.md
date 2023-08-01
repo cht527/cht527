@@ -11,7 +11,7 @@
 
 ### Github Profile Trophy
 
-<img src="https://github-profile-trophy.vercel.app/?username=cht527&theme=onedark&title=Commits,MultiLanguage,Followers,Issues,PullRequest,Repositories&row=1&column=7&no-bg=true&margin-w=30&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=cht527&theme=onedark&title=Commits,MultiLanguage,Followers,Issues,PullRequest,Repositories&row=1&column=7&no-bg=true&margin-w=60&margin-h=15" />
 
 ---
 
