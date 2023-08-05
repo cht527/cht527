@@ -3,7 +3,7 @@
   <img src="https://cht527.oss-cn-shanghai.aliyuncs.com/githubgif.gif" width="30%">
   <br><br>
   <samp>
-    Hi,I'm Cht527 :wave:
+    Hi,I'm cht :wave:
   </samp>
 </p>
 
